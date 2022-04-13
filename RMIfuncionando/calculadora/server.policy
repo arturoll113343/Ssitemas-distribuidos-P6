@@ -1,0 +1,4 @@
+grant codeBase "/home/arturoll/Documentos/sistemas/P6/calculadora"
+{
+permission java.security.AllPermission;
+};

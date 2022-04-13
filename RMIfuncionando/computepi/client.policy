@@ -1,0 +1,3 @@
+grant codeBase "file:/home/arturoll/Documentos/sistemas/P6/computepi" {
+    permission java.security.AllPermission;
+};

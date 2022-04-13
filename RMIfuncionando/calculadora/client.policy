@@ -1,0 +1,4 @@
+grant codeBase "/media/arturoll/PROGRAMAS/8 Sis Dist/P6/RMIfuncionando/calculadora"
+{
+permission java.security.AllPermission;
+};
